@@ -1,0 +1,15 @@
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\bin\Debug\net6.0\Gracheva_12.exe
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\bin\Debug\net6.0\Gracheva_12.deps.json
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\bin\Debug\net6.0\Gracheva_12.runtimeconfig.json
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\bin\Debug\net6.0\Gracheva_12.dll
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\bin\Debug\net6.0\Gracheva_12.pdb
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\obj\Debug\net6.0\Gracheva_12.csproj.AssemblyReference.cache
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\obj\Debug\net6.0\Gracheva_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\obj\Debug\net6.0\Gracheva_12.AssemblyInfoInputs.cache
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\obj\Debug\net6.0\Gracheva_12.AssemblyInfo.cs
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\obj\Debug\net6.0\Gracheva_12.csproj.CoreCompileInputs.cache
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\obj\Debug\net6.0\Gracheva_12.dll
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\obj\Debug\net6.0\refint\Gracheva_12.dll
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\obj\Debug\net6.0\Gracheva_12.pdb
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\obj\Debug\net6.0\Gracheva_12.genruntimeconfig.cache
+C:\Users\student.HELHEIM\srs\rep\Gracheva_12\obj\Debug\net6.0\ref\Gracheva_12.dll
